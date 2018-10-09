@@ -7,3 +7,4 @@ layout: home
 
 <h1> This Website is Under Contruction</h1>
 <h2> Please visit later to see the updated content</h2>
+Before leaving the webiste, please read the posts below to get something that might help you!
