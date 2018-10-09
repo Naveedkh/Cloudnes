@@ -15,6 +15,7 @@ To add all files run below command on terminal:
 $ git add --all
 
 To check the status of the changes made:
+
 $ git status
 
 Type in below command to save the changes with a message:
