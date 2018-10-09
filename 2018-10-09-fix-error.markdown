@@ -1,0 +1,9 @@
+layout: post
+title:  "Updates were rejected because the tip of your current branch is behind!"
+date:   2018-10-09 11:02:54 +0300
+categories: jekyll update
+
+Updates were rejected because the tip of your current branch is behind is a common error that you will face if your local copy of the branch is different than the remote branch. 
+To fix this, type the below command on your local machine and then push your local copy to the remote:
+
+$ git pull --rebase
