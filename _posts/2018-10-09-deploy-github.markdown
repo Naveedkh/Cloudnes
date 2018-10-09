@@ -14,6 +14,9 @@ To add all files run below command on terminal:
 
 $ git add --all
 
+To check the status of the changes made:
+$ git status
+
 Type in below command to save the changes with a message:
 
 $ git commit -m "inital commit"
@@ -22,6 +25,6 @@ Now Set up the remote repo to push to, in this case we will push the changes to 
 
 $ git remote add origin https://github.com/your-username/repo_name.git
 
-push your changes to the remote repository:
+Push your changes to the remote repository:
 
 $ git push -u origin master
