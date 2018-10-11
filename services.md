@@ -4,4 +4,4 @@ title: Services
 permalink: /services/
 ---
 
-This is a Cloud deployment portal to assist you in deploying your cloud service.. You can find out more info about the services soon.
+We provide cloud service enablement based on your needs. If you have plan to migrate to cloud or thinking to move, we can help you in the journey. We offer you services that will help you save some of your budget for other services.  
