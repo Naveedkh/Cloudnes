@@ -17,9 +17,9 @@ layout: home
 
 <h2> Please visit later to see the updated content</h2>
 
-Cloud services offer you the choice to provision your infrastrucutre based on your needs. You can build your own cloud envoirnment or choose a cloud service provider and bring your applications online. Cloud offers you security and complaince that will keep your data secure.
-
-
-Before leaving the webiste, please read the posts below to get something that might help you!
 
 ![My helpful screenshot](/assets/1.jpg)
+
+
+Before leaving the webiste, please read the posts below to get something that might help you
+
