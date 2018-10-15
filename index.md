@@ -5,8 +5,10 @@
 layout: home
 ---
 
-<h1> This Website is Under Contruction</h1>
+<h1> Manage the Cloud the way you want</h1>
 <h2> Please visit later to see the updated content</h2>
+
+cloud services offer you the choice to provision your infrastrucutre based on your needs. 
 Before leaving the webiste, please read the posts below to get something that might help you!
 
 <div class="container-fluid">
