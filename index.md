@@ -9,7 +9,9 @@ layout: home
 
 <h1> Manage the Cloud </h1>
 
-<h>the way you want</h1>
+
+<h1>The way you want</h1>
+
 
 
 
