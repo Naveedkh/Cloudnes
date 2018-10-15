@@ -5,7 +5,13 @@
 layout: home
 ---
 
-<h1> Manage the Cloud the way you want</h1>
+
+
+<h1> Manage the Cloud </h1>
+
+<h>the way you want</h1>
+
+
 
 <h2> Please visit later to see the updated content</h2>
 
