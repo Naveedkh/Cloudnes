@@ -22,8 +22,4 @@ Cloud services offer you the choice to provision your infrastrucutre based on yo
 
 Before leaving the webiste, please read the posts below to get something that might help you!
 
-<div class="container-fluid">
-  Wooo... another container... Let see some images 
-
-(/assets/IMG-001.jpg)
-</div>
+![My helpful screenshot](/assets/1.jpg)
