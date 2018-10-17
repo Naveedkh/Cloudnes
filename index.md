@@ -11,15 +11,13 @@ layout: home
 
 
 <h1>The way you want</h1>
-
+![My helpful screenshot](/assets/2.jpg)
 
 
 
 <h2> Please visit later to see the updated content</h2>
 
 
-![My helpful screenshot](/assets/1.jpg)
-
-
 Before leaving the webiste, please read the posts below to get something that might help you
+
 
