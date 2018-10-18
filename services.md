@@ -42,6 +42,16 @@ permalink: /services/
 
 . All type of Windows PC, Macbook OS X, Mobile devices setup
 
+<h1>Printer and Scanning</h1>
+
+. Network Printers installation and configuration
+
+. Printers Services ( Network, Mobile)
+
+. Centralized Scanning (Emails, SMB)
+
+<h1>VOIP</h1>
+
 
 <h1>Domains</h1>
 
@@ -64,3 +74,23 @@ permalink: /services/
 
 . Backup setup
 
+
+<h1>Windows Servers</h1>
+
+. Microsoft Windows servers installation and configuration
+
+. Active Directory Domain Services
+
+. Active Directory envoirnment installation and configuration
+
+<h1>Backups</h1>
+
+. Cloud based backup setup
+
+. Onedrive
+
+. Google Drive
+
+. Network attached storage with Active directory synchornization installation and configuration
+
+. Storage area network
