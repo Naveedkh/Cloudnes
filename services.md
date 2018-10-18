@@ -25,6 +25,13 @@ permalink: /services/
 
 . EC2 Amazon VMs deployment
 
+. Virtual Box
+
+. VMware Esxi deployment
+
+. HyperV deployment
+
+
 
 <h1>On-Prem Support</h1>
 . Network issues trouble shooting
@@ -35,12 +42,24 @@ permalink: /services/
 
 . LAN
 
+. VOIP
+
 
 <h1>Desktop & Laptops</h1>
 
 . Virtual desktop 
 
 . All type of Windows PC, Macbook OS X, Mobile devices setup
+
+
+<h1>Wireless</h1>
+
+. Wireless routers
+
+. Wireless Access points
+
+. Wireless LAN
+
 
 <h1>Printer and Scanning</h1>
 
@@ -50,7 +69,6 @@ permalink: /services/
 
 . Centralized Scanning (Emails, SMB)
 
-<h1>VOIP</h1>
 
 
 <h1>Domains</h1>
@@ -82,6 +100,7 @@ permalink: /services/
 . Active Directory Domain Services
 
 . Active Directory envoirnment installation and configuration
+
 
 <h1>Backups</h1>
 
