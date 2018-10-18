@@ -20,7 +20,9 @@ layout: home
 
 
 
-![My helpful screenshot](/assets/GSuite.jpg)
+![My helpful screenshot](/assets/gsuite.jpg)
 
+
+<a href="https://cloudenes.com/services/">![My helpful screenshot](/assets/more.jpg)</a>
 
 
