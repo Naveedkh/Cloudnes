@@ -27,16 +27,40 @@ permalink: /services/
 
 
 <h1>On-Prem Support</h1>
+. Network issues trouble shooting
 
+. Network installation and configuration
 
-<h1>LAN</h1>
+. Routers, Switches, firewall, loadbalancer Installation and configuration
+
+. LAN
 
 
 <h1>Desktop & Laptops</h1>
 
+. Virtual desktop 
+
+. All type of Windows PC, Macbook OS X, Mobile devices setup
+
 
 <h1>Domains</h1>
 
+. Domains registration
+
+. .com, .org, .qa, .pk, .io, .cloud etc
+
 
 <h1>Web Hosting</h1>
+
+. Webhosting hosting account setup.
+
+. DNS configuration
+
+. Wordpress installation
+
+. Files uploading
+
+. Emails account configuration
+
+. Backup setup
 
