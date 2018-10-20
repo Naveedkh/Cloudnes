@@ -26,6 +26,6 @@ layout: home
 <a href="https://cloudenes.com/services/">![My helpful screenshot](/assets/more.jpg)</a>
 
 
-<p> Here you can find all the basic, advance level support for all types of applications, services installation and configuration</p>
+<p> Here you can find the basic, advance level support for cloud applications, services installation and configuration</p>
 
 
