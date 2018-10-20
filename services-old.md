@@ -47,10 +47,18 @@ permalink: /services/
 
 <h1>Desktop & Laptops</h1>
 
+. Virtual desktop 
+
+. All type of Windows PC, Macbook OS X, Mobile devices setup
 
 
 <h1>Wireless</h1>
 
+. Wireless routers
+
+. Wireless Access points
+
+. Wireless LAN
 
 
 <h1>Printer and Scanning</h1>
@@ -96,8 +104,12 @@ permalink: /services/
 
 <h1>Backups</h1>
 
-. Cloud based backup setup for Disaster Recovery
+. Cloud based backup setup
 
-. Network attached storage
+. Onedrive
+
+. Google Drive
+
+. Network attached storage with Active directory synchornization installation and configuration
 
 . Storage area network
