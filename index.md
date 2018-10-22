@@ -10,7 +10,7 @@ layout: home
 ![](/assets/2.jpg)
 
 
-![](/assets/o365.png)
+![](/assets/O365.png)
 Please visit the services page by clicking on <a href="https://cloudenes.com/services/">Read more</a>
 
 
