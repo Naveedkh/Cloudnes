@@ -14,7 +14,7 @@ layout: home
 Please visit the services page by clicking on <a href="https://cloudenes.com/services/">Read more</a>
 
 
-![My helpful screenshot](/assets/gsuite.png)
+![](/assets/gsuite.png)
 
 
 <p> Here you can find the basic, advance level support for cloud applications, services installation and configuration</p>
