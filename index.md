@@ -8,14 +8,14 @@ layout: home
 Welcom to Cloudene!
 
 
-![ ](/assets/2.jpg)
+![Image ](/assets/2.jpg)
 
 
-![ ](/assets/O365.png)
+![Image ](/assets/O365.png)
 Please visit the services page by clicking on <a href="https://cloudenes.com/services/">Read more</a>
 
 
-![ ](/assets/gsuite.png)
+![Image](/assets/gsuite.png)
 
 
 <p> Here you can find the basic, advance level support for cloud applications, services installation and configuration</p>
