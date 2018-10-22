@@ -13,7 +13,7 @@ layout: home
 
 
 
-![My helpful screenshot](/assets/o365.jpg)
+![My helpful screenshot](/assets/o365.png)
 
 
 
