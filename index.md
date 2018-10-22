@@ -4,7 +4,7 @@
 
 layout: home
 ---
-![My helpful screenshot](/assets/logo.png)
+![My helpful screenshot](/assets/logo.png) Welcom to Cloudene!
 
 
 ![](/assets/2.jpg)
