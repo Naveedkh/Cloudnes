@@ -7,10 +7,10 @@ layout: home
 ![My helpful screenshot](/assets/logo.png)
 
 
-![My helpful screenshot](/assets/2.jpg)
+![](/assets/2.jpg)
 
 
-![My helpful screenshot](/assets/o365.png)
+![](/assets/o365.png)
 Please visit the services page by clicking on <a href="https://cloudenes.com/services/">Read more</a>
 
 
