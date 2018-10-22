@@ -14,16 +14,11 @@ layout: home
 
 
 ![My helpful screenshot](/assets/o365.png)
+Please visit the services page by clicking on <a href="https://cloudenes.com/services/">Read more</a>
 
 
-
-
-![My helpful screenshot](/assets/gsuite.jpg)
-
-
-<a href="https://cloudenes.com/services/">![My helpful screenshot](/assets/more.jpg)</a>
+![My helpful screenshot](/assets/gsuite.png)
 
 
 <p> Here you can find the basic, advance level support for cloud applications, services installation and configuration</p>
-
 
