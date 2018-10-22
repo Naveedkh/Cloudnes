@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h1> Who we Are</h1>
+<h1>Who we Are</h1>
 
 
 This is a Cloud deployment portal to assist you in deploying your online and on-prem cloud services.
