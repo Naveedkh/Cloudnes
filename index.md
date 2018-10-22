@@ -4,13 +4,11 @@
 
 layout: home
 ---
+![My helpful screenshot](/assets/logo.png)
 
 
 
-<h1> Manage the Cloud </h1>
 
-
-<h1>The way you want</h1>
 ![My helpful screenshot](/assets/2.jpg)
 
 
