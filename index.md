@@ -7,10 +7,7 @@ layout: home
 ![My helpful screenshot](/assets/logo.png)
 
 
-
-
 ![My helpful screenshot](/assets/2.jpg)
-
 
 
 ![My helpful screenshot](/assets/o365.png)
