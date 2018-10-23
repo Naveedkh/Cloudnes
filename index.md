@@ -8,7 +8,7 @@ layout: home
 ![My helpful screenshot](/assets/logo.png)
 
 
-![](/assets/2.jpg)
+![](/assets/Cloudene.png)
 
 
 ![](/assets/O365.png)
