@@ -6,7 +6,7 @@ title:  "Wifi Password sharing in iOS 11,12 with Macbook!"
 Apple had introduced a new feature in iOS 11-12, wifi password sharing. If you forgot your wifi password and you want to join your wifi wireless
 network with out entering the password. The new devices can be joined instantly by following belows steps:
 
-<h1> Iphone to Iphone</h1>
+<h1> iPhone to Mac</h1>
 
 1. Make sure the new device number is in the contact list of existing device.
 
