@@ -25,10 +25,6 @@ permalink: /services/
 
 . EC2 Amazon VMs deployment
 
-. Virtual Box
-
-. VMware Esxi deployment
-
 . HyperV deployment
 
 
